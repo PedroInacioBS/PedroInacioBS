@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to Pedrinho's world ❤️😃
 
-<!--
-**PedroInacioBS/PedroInacioBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Pedro Inácio**
 
-Here are some ideas to get you started:
+- Sou estudante do 3 ano do EM
+- Gosto de esportes
+- Pretendo ser jornalista
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo por:
+
+ Email:pinacio325@gmail.com
+
+ Instagram:@ped.ibs
+
+![](https://media1.tenor.com/m/synbFMMG5wcAAAAC/rayo-mcqueen-rio-pel%C3%ADcula.gif)
